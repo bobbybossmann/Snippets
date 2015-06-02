@@ -1,0 +1,3 @@
+<FilesMatch "\.ts" >
+  deny from all
+</FilesMatch>
